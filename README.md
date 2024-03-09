@@ -12,6 +12,35 @@ This is a simple library management system implemented in C++. It allows users t
 ## Screen
 ![project-5](https://github.com/Rahuljoshi07/C-Library-Management-System-/assets/86591216/4c02f653-a2f7-4825-898c-5395fb3f72fb)
 
+## Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/Rahuljoshi07/LibraryManagementSystem.git
+    ```
+
+2. Navigate to the cloned directory:
+
+    ```bash
+    cd LibraryManagementSystem
+    ```
+
+3. Compile the C++ files:
+
+    ```bash
+    g++ main.cpp -o library_management_system
+    ```
+
+4. Run the executable file:
+
+    ```bash
+    ./library_management_system
+    ```
+
+5. Follow the on-screen instructions to use the library management system.
+
+
 
 ## Classes Used
 
